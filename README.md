@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Aldous</h1>
 <h3 align="center">Aspiring Data Analyst and Cybersecurity</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aldosee&label=Profile%20views&color=0e75b6&style=flat" alt="aldosee" /> </p>
 
 - 🔭 I’m currently working on **building a solid foundation as a data analyst.**
 
