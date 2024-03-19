@@ -1,5 +1,5 @@
-<img align="center" alt="Coding" width="700" src="https://media1.tenor.com/m/kqlEI-zeRL4AAAAC/pixelart.gif">
 
+<img align="center" alt="" width="700" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/tenor.gif">
 
 <h1 align="center">Hi 👋, I'm Aldous</h1>
 <h3 align="center">Aspiring Data Analyst and Cybersecurity</h3>
