@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SQL and Python**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aldosee?tab=repositories)
+- 👨‍💻 All of my projects are available -> [https://github.com/Aldosee?tab=repositories)
 
 - ⚡ Fun fact **doggo lover**
 
