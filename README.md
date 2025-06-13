@@ -2,7 +2,7 @@
 <img align="center" alt="" width="700" src="https://c.tenor.com/kqlEI-zeRL4AAAAC/tenor.gif">
 
 <h1 align="center">👋 Hi/Kamusta/Hoy, I'm Aldous</h1>
-<h3 align="center">Aspiring Data Analyst</h3>
+<h3 align="center">Data Analyst -> Data Engineer</h3>
 
 
 - 🔭 I’m currently working on **building a solid foundation as a data analyst.**
